@@ -1,10 +1,10 @@
 import React from 'react';
-import InputCep from './components/InputCep/InputCep';
+import AdressForm from './components/AddressForm/AddressForm';
 
 function App() {
   return (
     <div >
-      <InputCep />
+      <AdressForm />
     </div>
   );
 }
